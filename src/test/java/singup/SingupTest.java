@@ -39,7 +39,7 @@ class SingupTest {
 	 void tearDown() {
 		System.out.println("Ending test...");
 		
-		//driver.quit();
+		driver.quit();
 	}
 	
 	@Test
