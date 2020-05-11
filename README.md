@@ -14,7 +14,7 @@ This is my solution for the challenge
 
 #### Setup
 
-1 - Download the Chrome Web Driver from [here](https://chromedriver.chromium.org/downloads) (
+1 - Download the Chrome Web Driver clicking [here](https://chromedriver.chromium.org/downloads) (
 select a version according to your browser version )
 
 2 - Put the 'chromedriver.exe' on 'C:\\'
