@@ -24,3 +24,9 @@ select a version according to your browser version )
 3 - Open the project and go to 'src/test/java/singup' path
 
 4 - Now you can run SingupTest as a JUnit Test
+
+### Executing the Project
+
+If the code run as expected, it'll open your Chrome and follow the Sing Up steps. To change the account creation email, you can change the value of email variable.
+
+![Executing](/executing.gif)
