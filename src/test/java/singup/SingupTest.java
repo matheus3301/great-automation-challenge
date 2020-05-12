@@ -19,12 +19,12 @@ class SingupTest {
 	
 	private  String url = "https://www.organizze.com.br/";
 	
-	private String email = "teste13@great.com";
+	private String email = "teste20@great.com";
 	private String passwd = " testaut2020";
 	
-	private String expectedHeaderResult = "Parabéns! O Organizze já está preparado para você!";
+	private String expectedHeaderResult = "Parabï¿½ns! O Organizze jï¿½ estï¿½ preparado para vocï¿½!";
 	private String expectedBodyResult = "Enviamos um e-mail para sua caixa de entrada. Confirme seu cadastro para receber um e-mail importante da nossa equipe.";
-	private String expectedButtonResult = "Ok, começar agora";
+	private String expectedButtonResult = "Ok, comeï¿½ar agora";
 	
 	@BeforeEach
 	 void setUp() {
