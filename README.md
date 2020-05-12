@@ -2,7 +2,7 @@
 
 This is my solution for the challenge
 
-### Environement Setup
+### Environment Setup
 
 #### Pre-requisites
 
@@ -27,6 +27,6 @@ select a version according to your browser version )
 
 ### Executing the Project
 
-If the code run as expected, it'll open your Chrome and follow the Sing Up steps. To change the account creation email, you can change the value of email variable.
+If the code runs as expected, it'll open your Chrome and follow the Sing Up steps. To change the account creation email, you can change the value of email variable.
 
 ![Executing](/executing.gif)
